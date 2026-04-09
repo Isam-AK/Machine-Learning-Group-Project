@@ -1,0 +1,18 @@
+# Dataset (too large for git)
+archive/
+data/
+*.csv.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
