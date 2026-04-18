@@ -1,0 +1,11 @@
+{
+  "stage1_accuracy": 0.8683344305464121,
+  "stage1_weighted_f1": 0.8711452490307017,
+  "stage1_weighted_prec": 0.8748285355702887,
+  "stage1_weighted_recall": 0.8683344305464121,
+  "stage1_auc": 0.902319666605381,
+  "stage2_accuracy": 0.8841698841698842,
+  "stage2_weighted_f1": 0.8852540411862447,
+  "stage2_weighted_prec": 0.8901802452438461,
+  "stage2_weighted_recall": 0.8841698841698842
+}

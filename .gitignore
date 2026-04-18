@@ -3,6 +3,9 @@ archive/
 data/
 *.csv.gz
 
+# Pretrained ViT checkpoints — exceed GitHub 100 MB limit; share separately
+checkpoints_pretrained/*.pt
+
 # Python
 __pycache__/
 *.py[cod]
